@@ -6,6 +6,11 @@ https://my.noip.com/dynamic-dns
 [![image](https://github.com/user-attachments/assets/6bbfbd4c-88ac-4b41-baca-7bdd81eff521)](https://my.noip.com/dynamic-dns)  
 
 
+# How to use ?
+
+[![image](https://github.com/user-attachments/assets/970b7a18-9e24-4f9f-a583-8c5e8c3699c6)](https://github.com/EloiStree/HelloEloiTeachingVideo/issues/126)
+- https://github.com/EloiStree/HelloEloiTeachingVideo/issues/126  
+
 **Note:** I hesitated to use Cloudflare because of this video:  
 https://youtu.be/rI-XxnyWFnM?t=6  
 However, no IP service is more dedicated to the original problem, and I have already purchased it. Maybe Cloudflare would be a better solution for you.
