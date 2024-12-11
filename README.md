@@ -45,3 +45,12 @@ sudo systemctl start no_ip_update.timer
 systemctl list-timers | grep no_ip_update
 
 ```
+
+
+
+# Raspberry Pi 5
+
+[![image](https://github.com/user-attachments/assets/b4ba6702-5a73-4f0b-9cbf-baa189d7443c)](https://www.raspberrypi.com/products/raspberry-pi-5/)  
+[![image](https://github.com/user-attachments/assets/0d03371a-7b4a-4013-8b58-c712f84558d2)](https://amzn.to/3VX4qL5)  
+https://www.raspberrypi.com/products/raspberry-pi-5/  
+Amazon: https://amzn.to/3VX4qL5  
