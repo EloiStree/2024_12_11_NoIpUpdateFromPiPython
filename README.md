@@ -6,6 +6,9 @@ https://my.noip.com/dynamic-dns
 [![image](https://github.com/user-attachments/assets/6bbfbd4c-88ac-4b41-baca-7bdd81eff521)](https://my.noip.com/dynamic-dns)  
 
 
+**Note:** I hesitated to use Cloudflare because of this video:  
+https://youtu.be/rI-XxnyWFnM?t=6  
+However, no IP service is more dedicated to the original problem, and I have already purchased it. Maybe Cloudflare would be a better solution for you.
 
 ```
 sudo nano /etc/systemd/system/no_ip_update.service
