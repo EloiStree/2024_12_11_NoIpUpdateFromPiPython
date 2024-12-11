@@ -9,10 +9,10 @@ string_file_path_password = "/home/Eloi/token/no_ip.txt"
 
 """
 cd /
-mkdir git
-mkdir token
+sudo mkdir git
+sudo mkdir token
 cd token
-nano no_ip.txt
+sudo nano no_ip.txt
 
 Copy your to no_ip.txt
 USERNAME
@@ -21,6 +21,11 @@ DDNS_HOSTNAME
 
 
 Save Script to /git/no_ip/update.py
+
+
+crontab -e
+@reboot sudo python3 /git/no_ip/update.py
+0 * * * * sudo python3 /git/no_ip/update.py
 
 """
 
