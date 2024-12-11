@@ -23,7 +23,7 @@ WantedBy=multi-user.target
 
 
 
-sudo nano /etc/systemd/system/noip_update.timer
+sudo nano /etc/systemd/system/no_ip_update.timer
 [Unit]
 Description=Run No-IP update script every hour
 
